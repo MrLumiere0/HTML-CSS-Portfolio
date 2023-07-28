@@ -1,0 +1,106 @@
+
+.navbar {
+    width: 100%;
+    margin-bottom: 0px;
+    background-color: rgb(225, 199, 164);
+    margin-bottom: -10px;
+    margin-top: -10px;
+    border-bottom: 1px solid black;
+   
+}
+
+.logo img {
+    height: 56px;
+    width: 56px;
+   position: absolute;
+  opacity: .4;
+    
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+ul {
+   font-size: 18px;
+   font-weight: 600;
+   list-style: none;
+   margin: 0;
+}
+
+li { 
+    float: left;
+    margin:20px;
+}
+
+a {
+    color:black;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 100;
+}
+
+
+.image {
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 30px;
+ 
+}
+
+
+h2 {
+    font-size:35px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 47px;;
+}
+
+
+.experiences {
+    display: flex;
+    justify-content: space-evenly;
+  
+}
+
+
+
+.experiences img {
+    height: 340px;
+    width: 320px
+}
+
+.experiences p {
+    font-size: 15px;
+    width:250px;
+    margin-bottom: 25px;
+}
+
+
+.ex2  > p {
+    margin-bottom: 92px;
+}
+.ex3  > p {
+    margin-bottom: 18px;
+}
+
+a {
+    font-size: 15px;
+}
+
+.bhr {
+    margin-bottom: -17px;
+}
+.bnav {
+    margin-top: 15px;
+    height: 25px;
+    display: block;
+    text-align: center;
+    background-color: rgb(225, 199, 164);
+    margin-bottom: -15px;
+}
